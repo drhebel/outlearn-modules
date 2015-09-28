@@ -31,7 +31,7 @@ If you want to enrich your content with more features, this sample module has a 
 
 <!-- @section -->
 
-# Images and videos
+# Images and videos (MY TEST)
 
 You can include images using Markdown syntax.
 
