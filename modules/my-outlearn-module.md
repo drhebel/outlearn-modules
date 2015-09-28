@@ -80,6 +80,7 @@ You can add a matrix and its transpose together only if
 - [ ] The matrix has an inverse
 - [X] The matrix is a square matrix
 
+
 Remember that two matrices can be added if they have the same number of rows and columns.
 
 <!-- @end -->
