@@ -79,6 +79,8 @@ You can add a matrix and its transpose together only if
 - [ ] The elements of the matrix are integers
 - [ ] The matrix has an inverse
 - [X] The matrix is a square matrix
+- [ ] Example Change
+- [ ] Hi Dan and Pam!
 
 
 Remember that two matrices can be added if they have the same number of rows and columns.
